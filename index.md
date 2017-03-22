@@ -6,6 +6,8 @@ DEN 2 (Room L153)
 
 9:00am - 1:00pm
 
+__Contact:__ [jwheel01@unm.edu](mailto:jwheel01@unm.edu)
+
 ### About the Event ###
 
 The University of New Mexico Libraries Research Data Services will be hosting the first #DataRescueABQ event on Wednesday, April 5th. In coordination with DataRefuge and other Data Rescue participants nationwide, librarians will provide background into the importance of preserving federal climate, land use, and other data. Following training in the use of tools provided by the DataRescue Initiative and EDGI, the Environmental Data & Governance Initiative, participants will work to identify at-risk datasets and seed web pages for harvest by the Internet Archive.
