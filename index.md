@@ -1,6 +1,6 @@
 ## Data Archiving Session: April 5th ##
 
-Centennial Science and Engineering Library ([map](https://goo.gl/maps/nkEdjpBN9wo)
+Centennial Science and Engineering Library ([map](https://goo.gl/maps/nkEdjpBN9wo))
 
 DEN 2 (Room L153)
 
