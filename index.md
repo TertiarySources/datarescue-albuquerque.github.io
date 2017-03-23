@@ -12,6 +12,8 @@ __Contact:__ [jwheel01@unm.edu](mailto:jwheel01@unm.edu)
 
 The University of New Mexico Libraries Research Data Services will be hosting the first #DataRescueABQ event on Wednesday, April 5th. In coordination with DataRefuge and other Data Rescue participants nationwide, librarians will provide background into the importance of preserving federal climate, land use, and other data. Following training in the use of tools provided by the DataRescue Initiative and EDGI, the Environmental Data & Governance Initiative, participants will work to identify at-risk datasets and seed web pages for harvest by the Internet Archive.
 
+__Participants should bring their own laptop.__ 
+
 <a href="https://www.eventbrite.com/e/datarescue-albuquerque-tickets-33092207684?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=33092207684" alt="Eventbrite - DataRescue Albuquerque" /></a>
 
 ### Schedule ###
